@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /about
+Disallow: /contact
+Disallow: /404
+Disallow: /sitemap.xml
+
+Sitemap: https://blackvyperstudios.software/sitemap.xml
+Sitemap: https://openfoxblog.blackvyperstudios.software/sitemap.xml
