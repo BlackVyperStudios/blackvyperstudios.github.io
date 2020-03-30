@@ -4,8 +4,5 @@ Disallow: /contact
 Disallow: /404
 Disallow: /sitemap.xml
 
-User-agent: Googlebot-Images
-Disallow: /
-
 Sitemap: https://blackvyperstudios.software/sitemap.xml
 Sitemap: https://openfoxblog.blackvyperstudios.software/sitemap.xml
