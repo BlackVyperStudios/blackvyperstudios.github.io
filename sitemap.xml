@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://blackvyperstudios.software/de/404.html</loc>
+        <loc>https://blackvyperstudios.github.io/website/de/404.html</loc>
     </url>
     <url>
-        <loc>https://blackvyperstudios.software/de/about.html</loc>
+        <loc>https://blackvyperstudios.github.io/website/de/about.html</loc>
     </url>
     <url>
-        <loc>https://blackvyperstudios.software/de/contact.html</loc>
+        <loc>https://blackvyperstudios.github.io/website/de/contact.html</loc>
     </url>
     <url>
-        <loc>https://blackvyperstudios.software/de/index.html</loc>
+        <loc>https://blackvyperstudios.github.io/website/de/index.html</loc>
     </url>
     <url>
-        <loc>https://blackvyperstudios.software/404.html</loc>
+        <loc>https://blackvyperstudios.github.io/website/about.html</loc>
     </url>
     <url>
-        <loc>https://blackvyperstudios.software/about.html</loc>
+        <loc>https://blackvyperstudios.github.io/website/contact.html</loc>
     </url>
     <url>
-        <loc>https://blackvyperstudios.software/contact.html</loc>
-    </url>
-    <url>
-        <loc>https://blackvyperstudios.software/index.html</loc>
+        <loc>https://blackvyperstudios.github.io/website/index.html</loc>
     </url>
 </urlset>
