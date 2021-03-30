@@ -11,4 +11,5 @@ Disallow: /CNAME
 Disallow: /assets/
 Disallow: /.projectfiles/
 
-Sitemap: https://blackvyperstudios.github.io/website/sitemap.xml
+Sitemap: https://blackvyperstudios.github.io/sitemap.xml
+Sitemap: https://openfoxblog.blackvyperstudios.software/sitemap.xml
