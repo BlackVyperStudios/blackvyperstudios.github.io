@@ -1,3 +1,3 @@
-# blackvyperstudios.software
+# blackvyperstudios.github.io
 
-Here lays the sourcecode for our organization website
+Here lays the BlackVyperStudios website's source code.
